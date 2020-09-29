@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Mr-Perfectuz/ud839_Miwok" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fahrican/RxJava2NewsAPI" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mr.Perfect\AndroidStudioProjects" />
