@@ -1,4 +1,8 @@
 <application>
+  <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="C:\Users\Mr.Perfect\AndroidStudioProjects" />
+    <option name="supportScreenReaders" value="true" />
+  </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
